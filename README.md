@@ -1,5 +1,5 @@
 # Jinux,
-## a custom kernel based on linux
+* a custom kernel based on linux
 
 
 
